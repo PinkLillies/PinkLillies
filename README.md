@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 -->
 
 
-# this is to add the graph with the streak.     [![GitHub Streak](https://streak-stats.demolab.com/?user=PinkLillies)](https://git.io/streak-stats)
